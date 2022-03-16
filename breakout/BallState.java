@@ -22,7 +22,7 @@ public class BallState {
 	 * @post | getCenter() == center
 	 * @post | getVelocity() == INIT_BALL_VELOCITY
 	 */
-	public BallState(Point center, diameter, Vector INIT_BALL_VELOCITY) {
+	public BallState(Point center, int diameter, Vector INIT_BALL_VELOCITY) {
 		this.center = center; 
 		this.diameter = diameter;
 		this.INIT_BALL_VELOCITY = INIT_BALL_VELOCITY;
