@@ -1,6 +1,7 @@
 package breakout;
 
 // TODO: implement, document
+// Defensive programming
 public class BreakoutState {
 
 	
